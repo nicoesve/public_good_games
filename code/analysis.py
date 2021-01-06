@@ -5,7 +5,7 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-M = 10
+M = 100
 n = 100
 TIME = 1
 
